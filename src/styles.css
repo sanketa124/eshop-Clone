@@ -1,0 +1,46 @@
+body {
+  font-family: sans-serif;
+}
+.container {
+  text-align: center;
+}
+
+.tab-container {
+  margin: 10px 0;
+}
+
+.tab-container .tab-header {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.tab-container .tab-header > div {
+  margin: 0 15px;
+}
+
+.tab-container .tab-content {
+  width: 600px;
+  border: 1px solid #ddd;
+}
+
+.form {
+  padding: 20px 10px;
+}
+
+.form .form-field {
+  margin: 10px 0;
+}
+
+.form .form-field label,
+.form .form-field input {
+  display: block;
+  width: 100%;
+}
+
+.form .form-actions {
+
+}
+
+
+
